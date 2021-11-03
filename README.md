@@ -27,7 +27,7 @@
 2. 내 컴퓨터에 저장소 Clone 하기
 
 ```shell
-  git clone https://github.com/YOUR_FORK_USERNAME/YOUR_FORK.git
+  git clone https://github.com/본인계정/I-am-a-developer.git
 ```
 
 3. 원격 저장소에 Remote 설정하기
