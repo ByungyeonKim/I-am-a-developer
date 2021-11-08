@@ -13,8 +13,11 @@
   - [재능과 열정 없이도 프로그래밍을 하는 사람들](https://flearning-blog.tistory.com/237)
   - [웹 프론트엔드 개발자, 어떻게 준비해야 할까?](https://han.gl/0tuUJ)
   - [소프트웨어 학습법 & 협업 태도](https://han.gl/Pth0e)
+  - [개발자용 운동팁 5가지](https://han.gl/msr8h)
 - 영상 모음
   - [사랑받는 신입 개발자가 되는 법](https://www.youtube.com/watch?v=V60QQDA57SA)
+  - [신입 개발자들이 제일 많이 하는 실수들](https://youtu.be/vtVpMBbRmlA)
+  - [배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다](https://youtu.be/3H4umWD5bwI)
 
 ## 누구나 참여 할 수 있습니다!
 
