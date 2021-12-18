@@ -18,6 +18,7 @@
   - [사랑받는 신입 개발자가 되는 법](https://www.youtube.com/watch?v=V60QQDA57SA)
   - [신입 개발자들이 제일 많이 하는 실수들](https://youtu.be/vtVpMBbRmlA)
   - [배달의민족 CEO에게 뽑고 싶은 개발자를 물어보았다](https://youtu.be/3H4umWD5bwI)
+  - [주니어 개발자 ‘실제’ 이력서 첨삭해 보았습니다](https://www.youtube.com/watch?v=1bcmmc2rTBE&t=606)
 
 ## 누구나 참여 할 수 있습니다!
 
